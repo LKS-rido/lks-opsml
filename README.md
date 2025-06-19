@@ -10,8 +10,8 @@ YourCity : Sungailiat
 
 ## Environment Variable for Apps
 
-- AWS_ACCESS_KEY_ID=your access key id
-- AWS_SECRET_ACCESS_KEY=your secret access key
+- AWS_ACCESS_KEY_ID=ASIA2BU2LERS73LNAYAG
+- AWS_SECRET_ACCESS_KEY=4CV170eGXUJaiT2D4iN5zPMYuFkx8JUWY/6Wff0O
 - AWS_SESSION_TOKEN=your session token
 - AWS_REGION=your default region
 - ATHENA_DB=your db athena
